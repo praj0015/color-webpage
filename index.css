@@ -12,6 +12,7 @@
             border-bottom-color: black;
         }
         nav>a{
+            text-decoration: none;
             color: white;
         }
         header
